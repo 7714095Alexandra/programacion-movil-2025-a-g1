@@ -1,0 +1,20 @@
+ Módulo 1: Fundamentos del desarrollo web
+Durante este módulo inicial, nos adentramos en cómo opera la web desde una perspectiva técnica. Estudiamos el modelo cliente-servidor, comprendimos el rol que juegan tanto los navegadores como los servidores, y exploramos las herramientas básicas que utilizan los desarrolladores web. Además, se presentó la estructura típica de un sitio web y cómo diferentes tecnologías se combinan para crear experiencias digitales.
+
+ Módulo 2: Construcción y diseño de sitios web
+Este módulo estuvo dedicado a la planificación y desarrollo de páginas web funcionales. Aprendimos cómo se estructuran comúnmente los sitios, la relevancia de una navegación intuitiva y la importancia del enfoque centrado en el usuario. Se trabajó en organizar contenidos de forma lógica y clara, siempre buscando accesibilidad y funcionalidad.
+
+ Módulo 3: Bases de HTML y CSS
+Nos enfocamos en los lenguajes principales para la creación de páginas web. Aprendimos a usar HTML para organizar el contenido con etiquetas semánticas, y CSS para aplicar estilos visuales. Se desarrollaron habilidades esenciales para construir la presentación visual de un sitio, incluyendo manejo de colores, fuentes, distribución y espaciado.
+
+Módulo 4: Sitios interactivos con JavaScript
+En este punto, incorporamos JavaScript para darle dinamismo a las páginas. Aprendimos a modificar el contenido del sitio en tiempo real mediante el DOM, reaccionar a eventos del usuario y usar estructuras básicas de programación como variables, funciones, condicionales y bucles. Todo con el fin de enriquecer la experiencia del usuario.
+
+ Módulo 5: Validación y publicación de sitios web
+Aquí nos concentramos en asegurar que los sitios web funcionen correctamente. Vimos técnicas de prueba y herramientas para identificar errores o problemas de usabilidad. También aprendimos a publicar nuestras páginas en servidores accesibles al público, abarcando así el ciclo completo: desde el desarrollo hasta la puesta en línea.
+
+ Módulo 6: Proyecto práctico – Aplicación de tareas
+Este módulo fue una aplicación práctica de los conocimientos adquiridos. Creamos una app para gestionar tareas usando HTML, CSS y JavaScript. Implementamos funciones como agregar, modificar y eliminar tareas, además de guardar los datos localmente en el navegador, permitiendo mantener la información entre sesiones.
+
+ Módulo 7: Perspectivas profesionales en desarrollo web
+En el último módulo, nos enfocamos en el futuro laboral dentro del mundo del desarrollo web. Analizamos las habilidades más valoradas por las empresas, las posibles trayectorias profesionales y cómo construir un portafolio que destaque. También se ofrecieron consejos para entrevistas y cómo posicionarse de forma competitiva en el mercado.
